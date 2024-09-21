@@ -1,0 +1,14 @@
+SELECT lovedtracks.rating, singer.name
+FROM lovedtracks
+INNER JOIN track On lovedtracks.idtrack = track.album_singer_idsinger
+INNER JOIN singer ON track.album_singer_idsinger = singer.Idsinger
+WHERE rating IS NULL;
+-------------------------------------------
+SELECT rating
+FROM lovedtracks
+WHERE rating LIMIT 3;
+-------------------------------------------
+SELECT rating
+FROM lovedtracks
+WHERE rating >(SELECT AVG(rating) FROM lovedtracks);
+------------------------------------------------

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leand\\Desktop\\Desarrollo de Aplicaciones Multiplataforma\\M02 - Base de Datos\\Administrador\\Aplicacion_Admin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9FB394-64FC-4CDD-B218-FD56670CD9F2}|Aplicacion_Admin\\Aplicacion_Admin.vbproj|c:\\users\\leand\\desktop\\desarrollo de aplicaciones multiplataforma\\m02 - base de datos\\administrador\\aplicacion_admin\\aplicacion_admin\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3E9FB394-64FC-4CDD-B218-FD56670CD9F2}|Aplicacion_Admin\\Aplicacion_Admin.vbproj|solutionrelative:aplicacion_admin\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\leand\\Desktop\\Desarrollo de Aplicaciones Multiplataforma\\M02 - Base de Datos\\Administrador\\Aplicacion_Admin\\Aplicacion_Admin\\Form1.vb",
+              "RelativeDocumentMoniker": "Aplicacion_Admin\\Form1.vb",
+              "ToolTip": "C:\\Users\\leand\\Desktop\\Desarrollo de Aplicaciones Multiplataforma\\M02 - Base de Datos\\Administrador\\Aplicacion_Admin\\Aplicacion_Admin\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Aplicacion_Admin\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T16:42:09.931Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
